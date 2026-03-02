@@ -1,4 +1,20 @@
-<h1 align="center">Hi 👋, I'm Adi Arsyil</h1>
+# Hi there 👋
+
+<!--
+**sur1254/sur1254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<h1 align="center">Hi 👋, I'm suryadi Arsyil</h1>
 <h3 align="center">A passionate developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
@@ -33,15 +49,15 @@
 
 ---
 
-#### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiarsyil96-cmyk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiarsyil96-cmyk&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sur1254&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sur1254&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiarsyil96-cmyk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sur1254&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 
 ---
@@ -49,13 +65,13 @@
 ##### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/username-kamu" target="_blank">
+  <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/username-kamu" target="_blank">
+  <a href="https://instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -65,19 +81,3 @@
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
-Hi there 👋
-
-<!--
-**sur1254/sur1254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
