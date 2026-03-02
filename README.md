@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm suryadi Arsyil</h1>
-<h3 align="center">A passionate developer from Indonesia 🇮🇩</h3>
+<h3 align="center">A passionate developer from Aceh </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sur1254&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
